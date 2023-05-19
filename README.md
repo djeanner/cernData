@@ -212,3 +212,30 @@ You can also create Flat Data Action files easily with Flat Editor, a VSCode ext
 ## License
 
 [MIT](LICENSE)
+
+
+Installation of cpp libraries 
+
+```sh
+brew install tesseract leptonica
+
+ brew install tesseract-ocr
+ brew install libtesseract-dev
+```
+
+compile 
+
+could not make this work
+
+```sh
+cernData % g++ src/main.cpp -o src/extract_number.o -std=c++11 -I/opt/homebrew/include/  -ltesseract -llept
+```
+Manuals
+
+https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html
+https://github.com/tesseract-ocr/tesseract/blob/main/doc/tesseract.1.asc
+
+```sh
+tesseract images/last.png  output --oem 1 -l eng quiet
+cat output.txt | grep Energy
+```
