@@ -1,0 +1,26 @@
+LHC Pagel Fill: 8794 E: 6799 GeV t(SB): 01:55:19 19-05-23 21:34:56
+
+PROTON PHYSICS: STABLE BEAMS
+
+Energy: 6799 GeV IB1: 3.42e+14 3.46e+14
+
+Beta* IP1: [EQS Beta* IP2 Beta* IP5: [EEG = Beta* IPS
+
+Inst. Lumi [(ub.s)*-1] IP1: 19080.15 IP2: 8.70 IP5: 18782.00 IP8: 32.50
+
+F
+¢
+2
+g
+
+BIS status and SMP flags BL B2
+Comments (19-May-2023 20:03:40) Link Status of Beam Permits
+k* STABLE BEAMS *** Global Beam Permit
+XRPs in
+Setup Beam false fj false
+IP 2/8 on separation levelling B , Ltalse 9 false |
+IP1/5 beta* levelling to ATLAS mu = 58 ‘eam Presence
+Moveable Devices Allowed In
+plan to keep this fill till tomorrow morning Stable Beams
+
+AFS: 25ns_2374b_2361_1730_1773_236bpi_13inj_hybrid_PM Status B1 PM Status B2
