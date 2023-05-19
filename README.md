@@ -236,6 +236,7 @@ https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html
 https://github.com/tesseract-ocr/tesseract/blob/main/doc/tesseract.1.asc
 
 ```sh
+wget https://vistar-capture.s3.cern.ch/lhc1.png -O ./images/last.png
 tesseract images/last.png  output --oem 1 -l eng quiet
 cat output.txt | grep Energy
 ```
